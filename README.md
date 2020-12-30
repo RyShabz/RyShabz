@@ -15,7 +15,7 @@ Currently improving my Vanilla JS front end web skill ands backend Python.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thakopian&show_icons=true&theme=gotham" alt="thakopian" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryshabz&show_icons=true&theme=gotham" alt="ryshabz" />
 
 <!--
 **thakopian/thakopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
