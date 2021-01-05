@@ -2,23 +2,26 @@
 
 Hello, I'm [Ryan]
 
-I work as a developer based in Los Angeles, California. 
+I work as a Data PM and Scientist for a large utility in Los Angeles. Helping push the industry forward in the area of advanced data analytics.
 
-Since 2017 I have been coding in Python and recently in Javascript. ✨😍
+I have a passion for using data to help drive businesses past their goals. 
 
-### What I'm focusing on 👨‍💻
+### 🌱 What I'm focusing on
 
-Currently improving my Vanilla JS front end web skill ands backend Python.
+Currently improving my Python skills to leverage mostly for data science but also expanding my awareness of available libraries
+Current personal project is a discord.py bot to refresh my python skills.
 
-###  I’m looking to collaborate on projects for web apps 👯
+### 👯  I’m looking to collaborate on projects involving predictive analytics 
 
+- Utility world is preferred, but open to other fields. Healthcare is very enticing.
+- Use energy consumption data to profile customer habits. 
 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ryshabz&show_icons=true&theme=gotham" alt="ryshabz" />
 
 <!--
-**thakopian/thakopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RyShabz/RyShabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
