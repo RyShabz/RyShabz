@@ -8,7 +8,8 @@ I have a passion for using data to help drive businesses past their goals.
 
 ### 🌱 What I'm focusing on
 
-Currently improving my Python skills to leverage mostly for data science but also expanding my awareness of available libraries
+Currently improving my Python skills to leverage mostly for data science but also expanding my awareness of available libraries.
+
 Current personal project is a discord.py bot to refresh my python skills.
 
 ### 👯  I’m looking to collaborate on projects involving predictive analytics 
